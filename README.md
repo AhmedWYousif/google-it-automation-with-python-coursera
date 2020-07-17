@@ -13,6 +13,10 @@ This repo contains all my work for this PROFESSIONAL CERTIFICATE. All the code a
   - [Week 1 - Practice Quiz 1 - Introduction to Programming](Course%201/W1%20-%20Hello%20Python/Practice%20Quiz.md)
   - [Week 1 - Practice Quiz 2 - Hello World](Course%201/W1%20-%20Hello%20Python/Practice%20Quiz2.md)
   - [Week 1 - Module 1 Graded Assessment](Course%201/W1%20-%20Hello%20Python/Assessment.md) 
+  - [Week 2 - Practice Quiz 1 -  Expressions and Variables](Course%201/W2%20-%20Basic%20Python%20Syntax/Practice%20Quiz.md)
+  - [Week 2 - Practice Quiz 2 -  Functions](Course%201/W2%20-%20Basic%20Python%20Syntax/Practice%20Quiz2.md)
+  - [Week 2 - Practice Quiz 3 -   Conditionals](Course%201/W2%20-%20Basic%20Python%20Syntax/Practice%20Quiz3.md)
+  - [Week 2 - Module 2 Graded Assessment](Course%201/W2%20-%20Basic%20Python%20Syntax/Assessment.md)
 
   
 - [Course 2: Using Python to Interact with the Operating System](Course%202)
