@@ -25,7 +25,10 @@ This repo contains all my work for this PROFESSIONAL CERTIFICATE. All the code a
   - [Week 4 - Practice Quiz 2 -  Lists](Course%201/W4%20-%20Strings%20Lists%20and%20Dictionaries/Practice%20Quiz2.md)
   - [Week 4 - Practice Quiz 3 -  Dictionaries](Course%201/W4%20-%20Strings%20Lists%20and%20Dictionaries/Practice%20Quiz3.md)
   - [Week 4 - Module 4 Graded Assessment](Course%201/W4%20-%20Strings%20Lists%20and%20Dictionaries/Assessment.md)  
-
+  - [Week 5 - Practice Quiz 1 -  Object-oriented Programming](Course%201/W5%20-%20OOP/Practice%20Quiz.md)
+  - [Week 5 - Practice Notebook - Methods and Classes](Course%201/W5%20-%20OOP/Methods_and_Classes.ipynb)
+  - [Week 5 - Practice Notebook 2 - Code Reuse](Course%201/W5%20-%20OOP/Code_Reuse.ipynb)
+  - [Week 5 - Assessment - Object-oriented programming](Course%201/W5%20-%20OOP/Object_Oriented_Programming.ipynb)  
 
 
 - [Course 2: Using Python to Interact with the Operating System](Course%202)
