@@ -29,9 +29,12 @@ This repo contains all my work for this PROFESSIONAL CERTIFICATE. All the code a
   - [Week 5 - Practice Notebook - Methods and Classes](Course%201/W5%20-%20OOP/Methods_and_Classes.ipynb)
   - [Week 5 - Practice Notebook 2 - Code Reuse](Course%201/W5%20-%20OOP/Code_Reuse.ipynb)
   - [Week 5 - Assessment - Object-oriented programming](Course%201/W5%20-%20OOP/Object_Oriented_Programming.ipynb)  
-
+  - [Week 6 - Practice Notebook - Putting It All Together](Course%201/W6%20-%20Final%20Project/Putting_It_All_Together.ipynb)
+  - [Week 6 - Assessment - Final Project - Word Cloud](Course%201/W6%20-%20Final%20Project/Final_Project.ipynb)  
 
 - [Course 2: Using Python to Interact with the Operating System](Course%202)
+
+
 - [Course 3: Introduction to Git and GitHub](Course%203)
 - [Course 4: Troubleshooting and Debugging Techniques](Course%204)
 - [Course 5: Configuration Management and the Cloud](Course%205)
