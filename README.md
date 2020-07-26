@@ -33,7 +33,11 @@ This repo contains all my work for this PROFESSIONAL CERTIFICATE. All the code a
   - [Week 6 - Assessment - Final Project - Word Cloud](Course%201/W6%20-%20Final%20Project/Final_Project.ipynb)  
 
 - [Course 2: Using Python to Interact with the Operating System](Course%202)
+  - [Week 1 - Practice Quiz 1 -  Getting Ready for Python](Course%202/W1%20-%20Getting%20Your%20Python%20On/Practice%20Quiz.md)
+  - [Week 1 - Practice Quiz 2 -  Running Python Locally](Course%202/W1%20-%20Getting%20Your%20Python%20On/Practice%20Quiz2.md)
+  - [Week 1 - Practice Quiz 3 -  Automation](Course%202/W1%20-%20Getting%20Your%20Python%20On/Practice%20Quiz3.md)
 
+ 
 
 - [Course 3: Introduction to Git and GitHub](Course%203)
 - [Course 4: Troubleshooting and Debugging Techniques](Course%204)
