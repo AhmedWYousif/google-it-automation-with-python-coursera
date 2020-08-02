@@ -40,7 +40,13 @@ This repo contains all my work for this PROFESSIONAL CERTIFICATE. All the code a
   - [Week 2 - Practice Quiz -  Managing Files & Directories](Course%202/W2%20-%20Managing%20Files%20with%20Python/Practice%20Quiz.md)
   - [Week 2 - Practice Quiz 2 -  Reading & Writing CSV Files](Course%202/W2%20-%20Managing%20Files%20with%20Python/Practice%20Quiz2.md)
   - [Week 2 - Qwiklabs Assessment - Handling Files](Course%202/W2%20-%20Managing%20Files%20with%20Python/generate_report.py)
- 
+  - [Week 3 - Practice Quiz 1 -  Regular Expressions](Course%202/W3%20-%20Regular%20Expressions/Practice%20Quiz.md)
+  - [Week 3 - Practice Quiz 2 -  Basic Regular Expressions](Course%202/W3%20-%20Regular%20Expressions/Practice%20Quiz2.md)
+  - [Week 3 - Practice Quiz 3 -  Advanced Regular Expressions](Course%202/W3%20-%20Regular%20Expressions/Practice%20Quiz3.md)
+  - [Week 3 - Qwiklabs Assessment -  Working with Regular Expressions](Course%202/W3%20-%20Regular%20Expressions/script.py)
+
+
+
 
 - [Course 3: Introduction to Git and GitHub](Course%203)
 - [Course 4: Troubleshooting and Debugging Techniques](Course%204)
