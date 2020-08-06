@@ -48,8 +48,12 @@ This repo contains all my work for this PROFESSIONAL CERTIFICATE. All the code a
   - [Week 4 - Practice Quiz 2 - Python Subprocesses](Course%202/W4%20-%20Managing%20Data%20and%20Processes/Practice%20Quiz2.md)
   - [Week 4 - Practice Quiz 3 - Processing Log Files](Course%202/W4%20-%20Managing%20Data%20and%20Processes/Practice%20Quiz3.md)
   - [Week 4 - Qwiklabs Assessment - Working with Log Files](Course%202/W4%20-%20Managing%20Data%20and%20Processes/find_error.py)
+  - [Week 5 - Practice Quiz 1 - Simple Tests](Course%202/W5%20-%20Testing%20in%20Python/Practice%20Quiz.md)
+  - [Week 5 - Practice Notebook 1 - Unit Tests](Course%202/W5%20-%20Testing%20in%20Python/Unit_Tests_and_Edge_Cases.ipynb)
+  - [Week 5 - Practice Quiz 2 - Other Test Concepts](Course%202/W5%20-%20Testing%20in%20Python/Practice%20Quiz2.md)
+  - [Week 5 - Practice Notebook 2 - Errors & Exceptions](Course%202/W5%20-%20Testing%20in%20Python/Errors_and_Exceptions.ipynb)
+  - [Week 5 - Qwiklabs Assessment - Implementing Unit Testing](Course%202/W5%20-%20Testing%20in%20Python/emails_test.py)
 
- 
 
 
 
