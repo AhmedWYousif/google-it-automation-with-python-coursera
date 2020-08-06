@@ -44,7 +44,12 @@ This repo contains all my work for this PROFESSIONAL CERTIFICATE. All the code a
   - [Week 3 - Practice Quiz 2 -  Basic Regular Expressions](Course%202/W3%20-%20Regular%20Expressions/Practice%20Quiz2.md)
   - [Week 3 - Practice Quiz 3 -  Advanced Regular Expressions](Course%202/W3%20-%20Regular%20Expressions/Practice%20Quiz3.md)
   - [Week 3 - Qwiklabs Assessment -  Working with Regular Expressions](Course%202/W3%20-%20Regular%20Expressions/script.py)
+  - [Week 4 - Practice Quiz 1 - Data Streams](Course%202/W4%20-%20Managing%20Data%20and%20Processes/Practice%20Quiz.md)
+  - [Week 4 - Practice Quiz 2 - Python Subprocesses](Course%202/W4%20-%20Managing%20Data%20and%20Processes/Practice%20Quiz2.md)
+  - [Week 4 - Practice Quiz 3 - Processing Log Files](Course%202/W4%20-%20Managing%20Data%20and%20Processes/Practice%20Quiz3.md)
+  - [Week 4 - Qwiklabs Assessment - Working with Log Files](Course%202/W4%20-%20Managing%20Data%20and%20Processes/find_error.py)
 
+ 
 
 
 
