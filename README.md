@@ -57,9 +57,7 @@ This repo contains all my work for this PROFESSIONAL CERTIFICATE. All the code a
   - [Week 6 - Practice Quiz 2 - Bash Scripting](Course%202/W6%20-%20Bash%20Scripting/Practice%20Quiz2.md)
   - [Week 6 - Practice Quiz 3 - Advanced Bash Concepts](Course%202/W6%20-%20Bash%20Scripting/Practice%20Quiz3.md)
   - [Week 6 - Qwiklabs Assessment - Editing Files Using Substrings](Course%202/W6%20-%20Bash%20Scripting/findJane.sh)
-
-
-
+  - [Week 7 - Qwiklabs Assessment - Log Analysis Using Regular Expressions](Course%202/W7%20-%20Final%20Project/ticky_check.py)
 
 - [Course 3: Introduction to Git and GitHub](Course%203)
 - [Course 4: Troubleshooting and Debugging Techniques](Course%204)
