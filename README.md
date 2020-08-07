@@ -53,6 +53,10 @@ This repo contains all my work for this PROFESSIONAL CERTIFICATE. All the code a
   - [Week 5 - Practice Quiz 2 - Other Test Concepts](Course%202/W5%20-%20Testing%20in%20Python/Practice%20Quiz2.md)
   - [Week 5 - Practice Notebook 2 - Errors & Exceptions](Course%202/W5%20-%20Testing%20in%20Python/Errors_and_Exceptions.ipynb)
   - [Week 5 - Qwiklabs Assessment - Implementing Unit Testing](Course%202/W5%20-%20Testing%20in%20Python/emails_test.py)
+  - [Week 6 - Practice Quiz 1 - Interacting with the Command Line](Course%202/W6%20-%20Bash%20Scripting/Practice%20Quiz.md)
+  - [Week 6 - Practice Quiz 2 - Bash Scripting](Course%202/W6%20-%20Bash%20Scripting/Practice%20Quiz2.md)
+  - [Week 6 - Practice Quiz 3 - Advanced Bash Concepts](Course%202/W6%20-%20Bash%20Scripting/Practice%20Quiz3.md)
+  - [Week 6 - Qwiklabs Assessment - Editing Files Using Substrings](Course%202/W6%20-%20Bash%20Scripting/findJane.sh)
 
 
 
