@@ -60,6 +60,14 @@ This repo contains all my work for this PROFESSIONAL CERTIFICATE. All the code a
   - [Week 7 - Qwiklabs Assessment - Log Analysis Using Regular Expressions](Course%202/W7%20-%20Final%20Project/ticky_check.py)
 
 - [Course 3: Introduction to Git and GitHub](Course%203)
+  - [Week 1 - Practice Quiz 1 - Before Version Control](Course%203/W1%20-%20Introduction%20to%20Version%20Control/Practice%20Quiz.md)
+  - [Week 1 - Practice Quiz 2 - Version Control Systems](Course%203/W1%20-%20Introduction%20to%20Version%20Control/Practice%20Quiz2.md)
+  - [Week 1 - Practice Quiz 3 - Using Git](Course%203/W1%20-%20Introduction%20to%20Version%20Control/Practice%20Quiz3.md)
+  - [Week 1 - Qwiklabs Assessment - Introduction to Git](Course%203/W1%20-%20Introduction%20to%20Version%20Control/introduction_to_Git.sh)
+
+
+
+
 - [Course 4: Troubleshooting and Debugging Techniques](Course%204)
 - [Course 5: Configuration Management and the Cloud](Course%205)
 - [Course 6: Automating Real-World Tasks with Python](Course%206)
