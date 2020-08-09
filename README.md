@@ -64,6 +64,10 @@ This repo contains all my work for this PROFESSIONAL CERTIFICATE. All the code a
   - [Week 1 - Practice Quiz 2 - Version Control Systems](Course%203/W1%20-%20Introduction%20to%20Version%20Control/Practice%20Quiz2.md)
   - [Week 1 - Practice Quiz 3 - Using Git](Course%203/W1%20-%20Introduction%20to%20Version%20Control/Practice%20Quiz3.md)
   - [Week 1 - Qwiklabs Assessment - Introduction to Git](Course%203/W1%20-%20Introduction%20to%20Version%20Control/introduction_to_Git.sh)
+  - [Week 2 - Practice Quiz 1 - Advanced Git Interaction](Course%203/W2%20-%20Using%20Git%20Locally/Practice%20Quiz.md)
+  - [Week 2 - Practice Quiz 2 - Undoing Things](Course%203/W2%20-%20Using%20Git%20Locally/Practice%20Quiz2.md)
+  - [Week 2 - Practice Quiz 3 - Branching & Merging](Course%203/W2%20-%20Using%20Git%20Locally/Practice%20Quiz3.md)
+  - [Week 2 - Qwiklabs Assessment - Merging Branches in Git](Course%203/W2%20-%20Using%20Git%20Locally/lab.sh)
 
 
 
