@@ -68,8 +68,10 @@ This repo contains all my work for this PROFESSIONAL CERTIFICATE. All the code a
   - [Week 2 - Practice Quiz 2 - Undoing Things](Course%203/W2%20-%20Using%20Git%20Locally/Practice%20Quiz2.md)
   - [Week 2 - Practice Quiz 3 - Branching & Merging](Course%203/W2%20-%20Using%20Git%20Locally/Practice%20Quiz3.md)
   - [Week 2 - Qwiklabs Assessment - Merging Branches in Git](Course%203/W2%20-%20Using%20Git%20Locally/lab.sh)
-
-
+  - [Week 3 - Practice Quiz 1 - Introduction to GitHub](Course%203/W3%20-%20Working%20with%20Remotes/Practice%20Quiz.md)
+  - [Week 3 - Practice Quiz 2 - Using a Remote Repository](Course%203/W3%20-%20Working%20with%20Remotes/Practice%20Quiz2.md)
+  - [Week 3 - Practice Quiz 3 - Solving Conflicts](Course%203/W3%20-%20Working%20with%20Remotes/Practice%20Quiz3.md)
+  - [Week 3 - Qwiklabs Assessment - Introduction to Github](Course%203/W3%20-%20Working%20with%20Remotes/lab.sh)
 
 
 - [Course 4: Troubleshooting and Debugging Techniques](Course%204)
