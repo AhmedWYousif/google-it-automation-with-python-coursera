@@ -72,6 +72,10 @@ This repo contains all my work for this PROFESSIONAL CERTIFICATE. All the code a
   - [Week 3 - Practice Quiz 2 - Using a Remote Repository](Course%203/W3%20-%20Working%20with%20Remotes/Practice%20Quiz2.md)
   - [Week 3 - Practice Quiz 3 - Solving Conflicts](Course%203/W3%20-%20Working%20with%20Remotes/Practice%20Quiz3.md)
   - [Week 3 - Qwiklabs Assessment - Introduction to Github](Course%203/W3%20-%20Working%20with%20Remotes/lab.sh)
+  - [Week 4 - Practice Quiz 1 - Pull Requests](Course%203/W4%20-%20Collaboration/Practice%20Quiz.md)
+  - [Week 4 - Practice Quiz 2 - Code Reviews](Course%203/W4%20-%20Collaboration/Practice%20Quiz2.md)
+  - [Week 4 - Practice Quiz 3 - Managing Collaboration](Course%203/W4%20-%20Collaboration/Practice%20Quiz3.md)
+  - [Week 4 - Qwiklabs Assessment - Pushing Local Commits to Github](Course%203/W4%20-%20Collaboration/lab.sh)
 
 
 - [Course 4: Troubleshooting and Debugging Techniques](Course%204)
