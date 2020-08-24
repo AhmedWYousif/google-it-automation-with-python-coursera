@@ -77,8 +77,14 @@ This repo contains all my work for this PROFESSIONAL CERTIFICATE. All the code a
   - [Week 4 - Practice Quiz 3 - Managing Collaboration](Course%203/W4%20-%20Collaboration/Practice%20Quiz3.md)
   - [Week 4 - Qwiklabs Assessment - Pushing Local Commits to Github](Course%203/W4%20-%20Collaboration/lab.sh)
 
-
 - [Course 4: Troubleshooting and Debugging Techniques](Course%204)
+  - [Week 1 - Practice Quiz 1 - Introduction to Debugging](Course%204/W1%20-%20Troubleshooting%20Concepts/Practice%20Quiz.md)
+  - [Week 1 - Practice Quiz 2 - Understanding the Problem](Course%204/W1%20-%20Troubleshooting%20Concepts/Practice%20Quiz2.md)
+  - [Week 1 - Practice Quiz 3 - Binary Searching a Problem](Course%204/W1%20-%20Troubleshooting%20Concepts/Practice%20Quiz3.md)
+  - [Week 1 - Qwiklabs Assessment - Debugging Python Scripts](Course%204/W1%20-%20Troubleshooting%20Concepts/lab.sh)
+
+
+
 - [Course 5: Configuration Management and the Cloud](Course%205)
 - [Course 6: Automating Real-World Tasks with Python](Course%206)
 
