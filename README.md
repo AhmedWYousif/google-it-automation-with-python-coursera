@@ -82,6 +82,10 @@ This repo contains all my work for this PROFESSIONAL CERTIFICATE. All the code a
   - [Week 1 - Practice Quiz 2 - Understanding the Problem](Course%204/W1%20-%20Troubleshooting%20Concepts/Practice%20Quiz2.md)
   - [Week 1 - Practice Quiz 3 - Binary Searching a Problem](Course%204/W1%20-%20Troubleshooting%20Concepts/Practice%20Quiz3.md)
   - [Week 1 - Qwiklabs Assessment - Debugging Python Scripts](Course%204/W1%20-%20Troubleshooting%20Concepts/lab.sh)
+  - [Week 2 - Practice Quiz 1 - Understanding Slowness](Course%204/W2%20-%20Slowness/Practice%20Quiz.md)
+  - [Week 2 - Practice Quiz 2 - Slow Code](Course%204/W2%20-%20Slowness/Practice%20Quiz2.md)
+  - [Week 2 - Practice Quiz 3 - When Slowness Problems Get Complex](Course%204/W2%20-%20Slowness/Practice%20Quiz3.md)
+  - [Week 2 - Qwiklabs Assessment - Performance Tuning in Python Scripts](Course%204/W2%20-%20Slowness/lab.sh)
 
 
 
