@@ -90,6 +90,10 @@ This repo contains all my work for this PROFESSIONAL CERTIFICATE. All the code a
   - [Week 3 - Practice Quiz 2 - Code that Crashes](Course%204/W3%20-%20Crashing%20Programs/Practice%20Quiz2.md)
   - [Week 3 - Practice Quiz 3 - Handling Bigger Incidents](Course%204/W3%20-%20Crashing%20Programs/Practice%20Quiz3.md)
   - [Week 3 - Qwiklabs Assessment - Fixing Errors in Python Scripts](Course%204/W3%20-%20Crashing%20Programs/lab.sh)
+  - [Week 4 - Practice Quiz 1 - Managing Computer Resources](Course%204/W4%20-%20Managing%20Resources/Practice%20Quiz.md)
+  - [Week 4 - Practice Quiz 2 - Managing Our Time](Course%204/W4%20-%20Managing%20Resources/Practice%20Quiz2.md)
+  - [Week 4 - Practice Quiz 3 - Making Our Future Lives Easier](Course%204/W4%20-%20Managing%20Resources/Practice%20Quiz3.md)
+  - [Week 4 - Qwiklabs Assessment - Debugging and Solving Software Problems](Course%204/W4%20-%20Managing%20Resources/lab.sh)
 
 
 
