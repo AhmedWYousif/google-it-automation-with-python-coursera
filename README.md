@@ -95,9 +95,13 @@ This repo contains all my work for this PROFESSIONAL CERTIFICATE. All the code a
   - [Week 4 - Practice Quiz 3 - Making Our Future Lives Easier](Course%204/W4%20-%20Managing%20Resources/Practice%20Quiz3.md)
   - [Week 4 - Qwiklabs Assessment - Debugging and Solving Software Problems](Course%204/W4%20-%20Managing%20Resources/lab.sh)
 
-
-
 - [Course 5: Configuration Management and the Cloud](Course%205)
+  - [Week 1 - Practice Quiz 1 - Automation at Scale](Course%205/W1%20-%20Automating%20with%20Configuration%20Management/Practice%20Quiz.md)
+  - [Week 1 - Practice Quiz 2 - Introduction to Puppet](Course%205/W1%20-%20Automating%20with%20Configuration%20Management/Practice%20Quiz2.md)
+  - [Week 1 - Practice Quiz 3 - The Building Blocks of Configuration Management](Course%205/W1%20-%20Automating%20with%20Configuration%20Management/Practice%20Quiz3.md)
+  - [Week 1 - Qwiklabs Assessment - Debugging Puppet Installation](Course%205/W1%20-%20Automating%20with%20Configuration%20Management/lab.sh)
+
+
 - [Course 6: Automating Real-World Tasks with Python](Course%206)
 
 
