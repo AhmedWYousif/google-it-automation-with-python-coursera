@@ -114,6 +114,8 @@ This repo contains all my work for this PROFESSIONAL CERTIFICATE. All the code a
   - [Week 4 - Qwiklabs Assessment - Debugging Cloud Deployment](Course%205/W4%20-%20Managing%20Cloud%20Instances%20at%20Scale/lab.sh)
 
 - [Course 6: Automating Real-World Tasks with Python](Course%206)
-
+  - [Week 1 - Qwiklabs Assessment - Scale and convert images using PIL](Course%206/W1%20-%20Manipulating%20Images/Image.py)
+  - [Week 2 - Qwiklabs Assessment - Process Text Files with Python Dictionaries and Upload to Running Web Service](Course%206/W2%20-%20Interacting%20with%20Web%20Services/run.py)
+ 
 
 
