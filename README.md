@@ -101,6 +101,12 @@ This repo contains all my work for this PROFESSIONAL CERTIFICATE. All the code a
   - [Week 1 - Practice Quiz 3 - The Building Blocks of Configuration Management](Course%205/W1%20-%20Automating%20with%20Configuration%20Management/Practice%20Quiz3.md)
   - [Week 1 - Qwiklabs Assessment - Debugging Puppet Installation](Course%205/W1%20-%20Automating%20with%20Configuration%20Management/lab.sh)
 
+  - [Week 2 - Practice Quiz 1 - Deploying Puppet Locally](Course%205/W2%20-%20Deploying%20Puppet/Practice%20Quiz.md)
+  - [Week 2 - Practice Quiz 2 - Deploying Puppet to Clients](Course%205/W2%20-%20Deploying%20Puppet/Practice%20Quiz2.md)
+  - [Week 2 - Practice Quiz 3 - Updating Deployments](Course%205/W2%20-%20Deploying%20Puppet/Practice%20Quiz3.md)
+  - [Week 2 - Qwiklabs Assessment - ](Course%205/W2%20-%20Deploying%20Puppet/lab.sh)
+
+
 
 - [Course 6: Automating Real-World Tasks with Python](Course%206)
 
