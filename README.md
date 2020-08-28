@@ -108,8 +108,10 @@ This repo contains all my work for this PROFESSIONAL CERTIFICATE. All the code a
   - [Week 3 - Practice Quiz 2 - Managing Instances in the Cloud](Course%205/W3%20-%20Automation%20in%20the%20Cloud/Practice%20Quiz2.md)
   - [Week 3 - Practice Quiz 3 - Automating Cloud Deployments](Course%205/W3%20-%20Automation%20in%20the%20Cloud/Practice%20Quiz3.md)
   - [Week 3 - Qwiklabs Assessment - Create VM template and Automate deployment](Course%205/W3%20-%20Automation%20in%20the%20Cloud/lab.sh)
-
-
+  - [Week 4 - Practice Quiz 1 - Building Software for the Cloud](Course%205/W4%20-%20Managing%20Cloud%20Instances%20at%20Scale/Practice%20Quiz.md)
+  - [Week 4 - Practice Quiz 2 - Monitoring & Alerting](Course%205/W4%20-%20Managing%20Cloud%20Instances%20at%20Scale/Practice%20Quiz2.md)
+  - [Week 4 - Practice Quiz 3 - Troubleshooting & Debugging](Course%205/W4%20-%20Managing%20Cloud%20Instances%20at%20Scale/Practice%20Quiz3.md)
+  - [Week 4 - Qwiklabs Assessment - Debugging Cloud Deployment](Course%205/W4%20-%20Managing%20Cloud%20Instances%20at%20Scale/lab.sh)
 
 - [Course 6: Automating Real-World Tasks with Python](Course%206)
 
