@@ -116,6 +116,7 @@ This repo contains all my work for this PROFESSIONAL CERTIFICATE. All the code a
 - [Course 6: Automating Real-World Tasks with Python](Course%206)
   - [Week 1 - Qwiklabs Assessment - Scale and convert images using PIL](Course%206/W1%20-%20Manipulating%20Images/Image.py)
   - [Week 2 - Qwiklabs Assessment - Process Text Files with Python Dictionaries and Upload to Running Web Service](Course%206/W2%20-%20Interacting%20with%20Web%20Services/run.py)
+  - [Week 3 - Qwiklabs Assessment - Automatically Generate a PDF and send it by Email](Course%206/W3%20-%20Automatic%20Output%20Generation/lab)
  
 
 
