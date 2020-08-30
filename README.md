@@ -1,7 +1,5 @@
 # Google IT Automation with Python PROFESSIONAL CERTIFICATE Offered by Google on Coursera
 
-
-
 ## About PROFESSIONAL CERTIFICATE
 The 6 courses certificate, developed by Google, is designed to provide IT professionals with in-demand skills. including Python, Git, and IT automation that can help you advance your career.
 ## Introduction
@@ -114,9 +112,10 @@ This repo contains all my work for this PROFESSIONAL CERTIFICATE. All the code a
   - [Week 4 - Qwiklabs Assessment - Debugging Cloud Deployment](Course%205/W4%20-%20Managing%20Cloud%20Instances%20at%20Scale/lab.sh)
 
 - [Course 6: Automating Real-World Tasks with Python](Course%206)
-  - [Week 1 - Qwiklabs Assessment - Scale and convert images using PIL](Course%206/W1%20-%20Manipulating%20Images/Image.py)
-  - [Week 2 - Qwiklabs Assessment - Process Text Files with Python Dictionaries and Upload to Running Web Service](Course%206/W2%20-%20Interacting%20with%20Web%20Services/run.py)
-  - [Week 3 - Qwiklabs Assessment - Automatically Generate a PDF and send it by Email](Course%206/W3%20-%20Automatic%20Output%20Generation/lab)
+  - [Week 1 - Qwiklabs Assessment - Scale and convert images using PIL](Course%206/W1%20-%20Manipulating%20Images/)
+  - [Week 2 - Qwiklabs Assessment - Process Text Files with Python Dictionaries and Upload to Running Web Service](Course%206/W2%20-%20Interacting%20with%20Web%20Services/)
+  - [Week 3 - Qwiklabs Assessment - Automatically Generate a PDF and send it by Email](Course%206/W3%20-%20Automatic%20Output%20Generation/lab/)
+  - [Week 4 - Qwiklabs Assessment - Automate updating catalog information](Course%206/W4%20-%20Putting%20It%20All%20Together/)
  
 
 
