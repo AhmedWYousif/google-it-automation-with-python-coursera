@@ -20,3 +20,26 @@ if __name__ == "__main__":
     print(tasks)
     p = Pool(len(tasks))
     p.map(copy, tasks)
+
+    
+
+    ###################################################
+#try this 
+#!/usr/bin/env python3
+
+from multiprocessing import Pool
+import os
+import subprocess
+
+src = "/home/student-03-#######/data/prod"
+dirs = next(os.walk(src))[1]
+
+def backingup(dirs):
+    dest = "/home/student-03-#######/data/prod_backup"
+    subprocess.call(["rsync", "-arq", src+'/'+ dirs, dest])
+
+
+
+
+p = Pool(len(dirs))
+p.map(backingup, dirs)
